@@ -10,7 +10,7 @@
 
 ---
 
-## :arrow_start: [官网导航](https://cloudupup.net/)
+## :star: [官网导航](https://cloudupup.net/)
 
 ---
 ### 点击右上角在浏览器打开下载
