@@ -1,6 +1,5 @@
 # Cloudupup
 ### Cloudupup VPN - 永远能连上的梯子, 自带永久客服, 解决您的所有问题
----
 **:earth_africa: "全球节点，当地体验！up加速器，畅享当地媒体节目，让你身临其境！"**
 
 **:lock: "保护你的隐私，畅游全球网络！香蕉加速器，一键连接，无限畅享！"**
@@ -11,7 +10,7 @@
 
 ---
 
-## :start: [官网导航](https://cloudupup.net/)
+## :arrow_start: [官网导航](https://cloudupup.net/)
 
 ---
 ### 点击右上角在浏览器打开下载
