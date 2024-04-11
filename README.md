@@ -19,7 +19,7 @@
 #### :arrow_double_down: [Android 版本.APK](https://upup.dolink.live/az/cloudupup231111.apk)
 #### :arrow_double_down: [Windows 版本.exe](https://upup.dolink.live/win/cloudupup_1.2.11.zip)
 #### :arrow_double_down: [macOS 版本.dmg](https://upup.dolink.live/mac/cloudupup_1.2.11.dmg)
-#### :house: [官方网站链接 1](https://cloudupup15.com/)
+#### :house: [官方网站链接 1](https://u01.cloudupup02.com/)
 #### :house: [官方网站链接 2](https://47.122.18.2.com/)
 ---
 ### 免费福利
