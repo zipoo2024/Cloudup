@@ -21,7 +21,7 @@
 #### :arrow_double_down: [Windows 版本.exe](https://upup.dolink.live/win/cloudupup_1.2.11.zip)
 #### :arrow_double_down: [macOS 版本.dmg](https://upup.dolink.live/mac/cloudupup_1.2.11.dmg)
 #### :house: [官方网站链接 1](https://47.122.18.2/)
-#### :house: [官方网站链接 2](https://u02.cloudupup01.com/)
+#### :house: [官方网站链接 2](https://cloud-upup.com/)
 ---
 ### 免费福利
 **:gift: 下载Cloudupup VPN，内含永久在线客服！**
