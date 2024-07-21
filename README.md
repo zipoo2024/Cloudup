@@ -13,7 +13,7 @@
 
 ## :star: [官网导航](https://cloudupup.net/)
 ## :star: [永久域名](https://120.78.72.162/)
-## :star: [永久域名](https://up04.cloudupup04.com/)
+## :star: [永久域名](https://up06.cloudupup06.com/)
 
 ---
 ### 点击右上角在浏览器打开下载
