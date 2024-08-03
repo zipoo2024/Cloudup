@@ -12,8 +12,10 @@
 ---
 
 ## :star: [官网导航](https://cloudupup.net/)
-## :star: [永久域名](https://120.78.72.162/auth/login)
-## :star: [永久域名](https://up06.cloudupup06.com/)
+## :star: [永久域名](up14.cloudupup14.com)
+## :star: [永久域名](up06.cloudupup06.com)
+## :star: [备用网址1](https://120.78.72.162/auth/login)
+## :star: [备用网址2](https://47.122.17.195/auth/login/)
 
 ---
 ### 点击右上角在浏览器打开下载
