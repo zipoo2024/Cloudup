@@ -12,19 +12,18 @@
 ---
 
 ## :star: [官网导航](https://cloudupup.net/)
-## :star: [永久域名](up14.cloudupup14.com)
+## :star: [永久域名](cloudupup.cc)
 ## :star: [永久域名](up15.cloudupup15.com)
 ## :star: [备用网址1](https://120.78.72.162/auth/login)
 ## :star: [备用网址2](https://47.122.17.195/auth/login/)
 
 ---
 ### 点击右上角在浏览器打开下载
-#### :arrow_double_down: [iOS 大陆用户下载教程](https://help.cloudupup.com/ios/Shadowrocket.html)
+#### :arrow_double_down: [iOS 大陆用户下载教程](https://help.cloudupup.net/ios/Shadowrocket.html)
 #### :arrow_double_down: [Android 版本.APK](https://upup.dolink.live/az/cloudupup231111.apk)
 #### :arrow_double_down: [Windows 版本.exe](https://upup.dolink.live/win/cloudupup_1.2.11.zip)
 #### :arrow_double_down: [macOS 版本.dmg](https://upup.dolink.live/mac/cloudupup_1.2.11.dmg)
-#### :house: [官方网站链接 1](https://up04.cloudupup04.com/)
-#### :house: [官方网站链接 2](https://47.122.18.2/)
+#### :house: [官方网站链接](https://cloudupup.org/)
 ---
 ### 免费福利
 **:gift: 下载Cloudupup VPN，内含永久在线客服！**
