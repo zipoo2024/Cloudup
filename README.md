@@ -1,7 +1,7 @@
 # Cloudupup
 
 ## :star: [官网导航](https://cloudupup.net/)
-## :star: [永久域名](https://up02.cloudupup14.com)
+## :star: [永久域名](https://up04.cloudupup17.com)
 ## :star: [备用网址1](https://cloudupup.cc)
 
 ---
@@ -17,7 +17,7 @@
 ### 点击右上角在浏览器打开下载
 #### :arrow_double_down: [iOS 大陆用户下载教程](https://help.cloudupup.net/ios/Shadowrocket.html)
 #### :arrow_double_down: [Android 版本.APK](https://upup.dolink.live/az/upup_128010_2025_01_26.apk)
-#### :arrow_double_down: [Windows 版本.exe](https://upup.dolink.live/win/cloudupup_1.2.12.exe)
+#### :arrow_double_down: [Windows 版本.exe](https://upup.dolink.live/win/cloudupup.vortex.zip)
 #### :arrow_double_down: [macOS 版本.dmg](https://upup.dolink.live/mac/cloudupup_1.2.12_x64.dmg)
 #### :house: [官方网站链接](https://cloudupup.net/)
 ---
