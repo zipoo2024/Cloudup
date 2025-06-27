@@ -1,7 +1,7 @@
 # Cloudupup
 
 ## :star: [官网导航](https://cloudupup.net/)
-## :star: [永久域名](https://up03.cloudupup15.com)
+## :star: [永久域名](https://up04.cloudupup14.com)
 ## :star: [备用网址1](https://cloudupup01.cc)
 
 ---
